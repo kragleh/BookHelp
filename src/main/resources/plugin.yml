@@ -1,0 +1,4 @@
+name: BookHelp
+version: '${project.version}'
+main: com.kragleh.bookhelp.BookHelp
+api-version: '1.20'
